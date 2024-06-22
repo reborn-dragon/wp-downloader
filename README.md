@@ -19,6 +19,18 @@ Then follow the installation steps below.
 If you have set it up properly, your terminal should output the URL that you can open in a web browser.
 
 ## Installation
+
+## Option 1
+
+1. Run "npm i wp-downloader" 
+2. Go to the root directory of the project
+3. (optional) Make sure to set up the environment variables properly
+4. Run `npm install` in your terminal (Optional)
+5. Then run `npm start` in your terminal
+
+
+## Option 2
+
 1. Clone / download the repository
 2. Go to the root directory of the project
 3. (optional) Make sure to set up the environment variables properly
@@ -55,9 +67,3 @@ EPUB is supported by many e-readers, and compatible software is available for mo
 
 ### HTML
 The HTML file features an entire reader including the story (so people can read it offline).
-
-## Main developers
-- [Feuerhamster](https://github.com/Feuerhamster)
-- [BluemediaGER](https://github.com/BluemediaGER)
-
-*We are not associated with Wattpad Corp. in any way.*
