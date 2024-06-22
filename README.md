@@ -20,7 +20,7 @@ If you have set it up properly, your terminal should output the URL that you can
 
 ## Installation
 
-## Option 1
+### Option 1
 
 1. Run "npm i wp-downloader" 
 2. Go to the root directory of the project
@@ -29,7 +29,7 @@ If you have set it up properly, your terminal should output the URL that you can
 5. Then run `npm start` in your terminal
 
 
-## Option 2
+### Option 2
 
 1. Clone / download the repository
 2. Go to the root directory of the project
